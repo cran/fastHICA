@@ -1,0 +1,10 @@
+130edb4ae1014c24ad19ea309b67bad6 *DESCRIPTION
+9ada967514fca1c2040407191126f906 *NAMESPACE
+bd64d37dfcff19ba5852028f24ddc4ae *R/basis_hica.R
+8ca2f9d3a76b3c9ddf45d7e2272dfc58 *R/energy_hica.R
+e516e299e29299f74b7ceede178dc69a *R/extract_hica.R
+19be46e925ce8df7ef27e1d11d379fd7 *R/similarity_hica.R
+6e605317fca162e2ffaa9fef45c85d0c *man/basis_hica.Rd
+0cf1d6ca27ec88cead1e5bb9f3933299 *man/energy_hica.Rd
+450a8172dfdb3c74f168a797874c50ca *man/extract_hica.Rd
+1a6c79635ee755208b496fefcfac66b5 *man/similarity_hica.Rd
