@@ -8,7 +8,7 @@ Energy criterion
 This function implements the energy criterion defined in Secchi, Vantini, and Zanini (2013).
 }
 \usage{
-energy_hica(HICA.obj, maxcomp = 1, nlevel = 1, plot = TRUE)
+energy_hica(HICA.obj, maxcomp = 1, nlevel = 1, plot = FALSE)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
